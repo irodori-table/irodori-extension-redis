@@ -319,7 +319,7 @@
   },
   "source": {
     "marketplaceId": "irodori.redis",
-    "repository": "https://github.com/hjosugi/irodori-extension-redis",
+    "repository": "https://github.com/irodori-table/irodori-extension-redis",
     "knowledgeEngineStatus": "wired",
     "adapter": "db/redis.rs",
     "adapterSha256": "cbc06f16d4107ad97f39a7e150df4d16d09608cc2dc90720e40d465a69b1d3fb",

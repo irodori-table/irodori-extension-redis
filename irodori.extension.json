@@ -3,7 +3,7 @@
   "manifestVersion": 1,
   "id": "irodori.redis",
   "name": "Redis Connector",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "publisher": "irodori",
   "description": "Redis Connector contributes the Redis database connector through the native connector ABI.",
   "license": "MIT OR 0BSD",
